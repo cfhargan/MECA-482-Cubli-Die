@@ -1,2 +1,2 @@
 # MECA-482-Cubli-Die
-Cheat at dice using advanced control algorithms and incredibly expensive hardware!
+All code used for all simulations and matlab representation. Both the loaded die and 1-dimensional corner balancing are included within this repository. 
